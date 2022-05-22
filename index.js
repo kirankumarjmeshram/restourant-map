@@ -1,3 +1,4 @@
+
 function initMap() {
     let center = {lat: 21.1458, lng: 79.0882};
     let locations = [
